@@ -1,0 +1,2 @@
+# homework
+homework with array
